@@ -25,7 +25,7 @@ You’ll learn how to apply these skills to practical scenarios, including class
 
 ## Course3: Langchain for LLM Application Development and Chatting with your Own Data
 
-In these dual deeplearning.ai short courses, LangChain for LLM Application Development and LangChain: Chat With Your Data! 
+### Combination of dual deeplearning.ai short courses, LangChain for LLM Application Development and LangChain: Chat With Your Data! 
 
 In the first short course (instructed by the creator of LangChain Harrison Chase as well as Andrew Ng will vastly expand the possibilities for leveraging powerful language models, where you can now create incredibly robust applications in a matter of hours), you will gain essential skills in expanding the use cases and capabilities of language models in application development using the LangChain framework.
 
